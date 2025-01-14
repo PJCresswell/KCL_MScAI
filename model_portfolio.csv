@@ -1,0 +1,10 @@
+﻿Stock_Ticker,Hidden_Layers
+SMCI,"[16, 3]"
+AVGO,"[16, 16, 3]"
+WMT,[16]
+XOM,[16]
+BAC,"[16, 16, 3]"
+FDX,"[16, 3]"
+WBA,"[16, 3]"
+LULU,"[16, 16, 3]"
+BA,[16]
